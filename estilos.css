@@ -8,4 +8,9 @@ border-collapse: collapse;
 }
 th, td {
     border: 1px solid black;
+   
+}
+.boton {
+background-color: blue;
+border-radius: 12px;
 }
